@@ -1,13 +1,19 @@
-# Awesome RAG [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome RAG [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Best practices, tools, and frameworks for Retrieval-Augmented Generation (RAG). 100+ resources.
+> A curated list of retrieval-augmented generation tools, vector databases, embedding models, chunking strategies, retrieval techniques, re-ranking tools, evaluation methods, and production guides.
 
-**Star this repo** to stay updated on the latest RAG techniques!
+Awesome RAG is a focused list for exploring how retrieval-augmented generation is built and improved in practice. It is a companion repository for AI Tools Hub.
 
-[![GitHub Stars](https://img.shields.io/github/stars/asdfgh12345123/awesome-rag?style=social)](https://github.com/asdfgh12345123/awesome-rag)
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors/asdfgh12345123)
+## Main hub
 
----
+- Main site: https://asdfgh12345123.github.io/awesome-ai-tools/
+- AI Tools Directory: https://asdfgh12345123.github.io/awesome-ai-tools/tools/generated.html
+- RAG Guide: https://asdfgh12345123.github.io/awesome-ai-tools/guides/rag-tools-comparison.html
+
+## Support this project
+
+- Ko-fi: https://ko-fi.com/aitoolshub
+- 爱发电: https://ifdian.net/a/aitoolshub
 
 ## Table of Contents
 - [Frameworks](#frameworks)
@@ -139,14 +145,3 @@
 - [Scaling RAG (Weaviate)](https://weaviate.io/developers/weaviate)
 - [RAG Architecture Patterns](https://www.anthropic.com/engineering/building-effective-agents)
 - [Chunking for Production](https://www.llamaindex.ai/blog/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
-
----
-
-## Support This Project
-
-If you find this useful, please consider supporting:
-
-**[Buy Me a Coffee on Ko-fi](https://ko-fi.com/aitoolshub)**
-
-Every contribution helps keep these resources free and updated!
-
