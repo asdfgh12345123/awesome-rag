@@ -32,34 +32,34 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 ## Frameworks
 | Name | Stars | Description |
 |------|-------|-------------|
-| [LangChain](https://github.com/langchain-ai/langchain) | 90k+ | Build context-aware LLM applications |
-| [LlamaIndex](https://github.com/run-llama/llama_index) | 30k+ | Data framework for LLM apps |
-| [Haystack](https://github.com/deepset-ai/haystack) | 15k+ | End-to-end NLP framework |
-| [RAGFlow](https://github.com/infiniflow/ragflow) | 20k+ | Open-source RAG engine |
-| [Dify](https://github.com/langgenius/dify) | 50k+ | LLM app development platform |
-| [R2R](https://github.com/SciPhi-AI/R2R) | 5k+ | RAG to production |
-| [Verba](https://github.com/weaviate/Verba) | 5k+ | RAG chatbot by Weaviate |
-| [FastRAG](https://github.com/IntelLabs/fastRAG) | 1k+ | Optimized RAG framework |
+| [LangChain](https://github.com/langchain-ai/langchain) | 138k+ | Build context-aware LLM applications |
+| [LlamaIndex](https://github.com/run-llama/llama_index) | 50k+ | Data framework for LLM apps |
+| [Haystack](https://github.com/deepset-ai/haystack) | 25k+ | End-to-end NLP framework |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | 82k+ | Open-source RAG engine |
+| [Dify](https://github.com/langgenius/dify) | 143k+ | LLM app development platform |
+| [R2R](https://github.com/SciPhi-AI/R2R) | 8k+ | RAG to production |
+| [Verba](https://github.com/weaviate/Verba) | 16k+ | RAG chatbot by Weaviate |
+| [FastRAG](https://github.com/IntelLabs/fastRAG) | 2k+ | Optimized RAG framework |
 | [Canopy](https://github.com/pinecone-io/canopy) | 1k+ | RAG framework by Pinecone |
-| [Kotaemon](https://github.com/Cinnamon/kotaemon) | 15k+ | Open-source RAG UI |
-| [DocsGPT](https://github.com/arc53/DocsGPT) | 15k+ | RAG for documentation |
-| [PrivateGPT](https://github.com/zylon-ai/private-gpt) | 50k+ | Private RAG solution |
+| [Kotaemon](https://github.com/Cinnamon/kotaemon) | 25k+ | Open-source RAG UI |
+| [DocsGPT](https://github.com/arc53/DocsGPT) | 18k+ | RAG for documentation |
+| [PrivateGPT](https://github.com/zylon-ai/private-gpt) | 57k+ | Private RAG solution |
 
 ## Vector Databases
 | Name | Type | Description |
 |------|------|-------------|
-| [Weaviate](https://github.com/weaviate/weaviate) | Open-source | Vector search engine |
-| [Milvus](https://github.com/milvus-io/milvus) | Open-source | High-performance vector DB |
-| [Chroma](https://github.com/chroma-core/chroma) | Open-source | AI-native embedding DB |
-| [Qdrant](https://github.com/qdrant/qdrant) | Open-source | High-performance vector search |
+| [Weaviate](https://github.com/weaviate/weaviate) | 16k+ | Vector search engine |
+| [Milvus](https://github.com/milvus-io/milvus) | 45k+ | High-performance vector DB |
+| [Chroma](https://github.com/chroma-core/chroma) | 28k+ | AI-native embedding DB |
+| [Qdrant](https://github.com/qdrant/qdrant) | 32k+ | High-performance vector search |
 | [Pinecone](https://www.pinecone.io/) | Managed | Serverless vector database |
-| [pgvector](https://github.com/pgvector/pgvector) | Extension | Vector similarity for PostgreSQL |
-| [LanceDB](https://github.com/lancedb/lancedb) | Open-source | Developer-friendly vector DB |
+| [pgvector](https://github.com/pgvector/pgvector) | 22k+ | Vector similarity for PostgreSQL |
+| [LanceDB](https://github.com/lancedb/lancedb) | 10k+ | Developer-friendly vector DB |
 | [Redis](https://redis.io/) | Open-source | Vector search in Redis |
 | [Elasticsearch](https://www.elastic.co/elasticsearch) | Open-source | Vector search in ES |
-| [Vespa](https://github.com/vespa-engine/vespa) | Open-source | Full-text and vector search |
-| [Typesense](https://github.com/typesense/typesense) | Open-source | Fast typo-tolerant search |
-| [Marqo](https://github.com/marqo-ai/marqo) | Open-source | Tensor-based search |
+| [Vespa](https://github.com/vespa-engine/vespa) | 7k+ | Full-text and vector search |
+| [Typesense](https://github.com/typesense/typesense) | 26k+ | Fast typo-tolerant search |
+| [Marqo](https://github.com/marqo-ai/marqo) | 5k+ | Tensor-based search |
 
 ## Embedding Models
 | Model | Provider | Dims | Description |
@@ -68,7 +68,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [text-embedding-3-small](https://platform.openai.com/docs/guides/embeddings) | OpenAI | 1536 | Cost-effective OpenAI |
 | [voyage-3](https://www.voyageai.com/) | Voyage | 1024 | High-performance embeddings |
 | [Cohere Embed v3](https://cohere.com/embed) | Cohere | 1024 | Multilingual embeddings |
-| [BGE-M3](https://github.com/FlagOpen/FlagEmbedding) | Open-source | 1024 | Multilingual, multi-granularity |
+| [BGE-M3](https://github.com/FlagOpen/FlagEmbedding) | 12k+ | 1024 | Multilingual, multi-granularity |
 | [E5-Mistral](https://huggingface.co/intfloat/e5-mistral-7b-instruct) | Open-source | 4096 | Strong open embedding |
 | [GTE-Qwen2](https://huggingface.co/Alibaba-NLP/gte-Qwen2-7B-instruct) | Open-source | 3584 | Alibaba embedding model |
 | [Jina Embeddings v3](https://jina.ai/embeddings/) | Jina | 1024 | Flexible embedding model |
@@ -106,20 +106,20 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | Name | Description |
 |------|-------------|
 | [Cohere Rerank](https://cohere.com/rerank) | API-based re-ranking |
-| [BGE Reranker](https://github.com/FlagOpen/FlagEmbedding) | Open-source re-ranker |
-| [ColBERT](https://github.com/stanford-futuredata/ColBERT) | Late interaction model |
-| [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) | Ultra-fast re-ranker |
-| [RankLLM](https://github.com/castorini/rank_llm) | LLM-based re-ranking |
+| [BGE Reranker](https://github.com/FlagOpen/FlagEmbedding) | 12k+ |
+| [ColBERT](https://github.com/stanford-futuredata/ColBERT) | 4k+ |
+| [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) | 980 |
+| [RankLLM](https://github.com/castorini/rank_llm) | 600 |
 | [LLM Re-ranking](https://python.langchain.com/docs/integrations/retrievers/LLM-Reranker) | Use any LLM for re-ranking |
 
 ## Evaluation
 | Tool | Description |
 |------|-------------|
-| [RAGAS](https://github.com/explodinggradients/ragas) | RAG evaluation framework |
-| [DeepEval](https://github.com/confident-ai/deepeval) | LLM evaluation framework |
-| [TruLens](https://github.com/truera/trulens) | RAG observability |
+| [RAGAS](https://github.com/explodinggradients/ragas) | 14k+ |
+| [DeepEval](https://github.com/confident-ai/deepeval) | 16k+ |
+| [TruLens](https://github.com/truera/trulens) | 3k+ |
 | [LangSmith](https://smith.langchain.com/) | LangChain tracing & eval |
-| [Phoenix](https://github.com/Arize-ai/phoenix) | AI observability |
+| [Phoenix](https://github.com/Arize-ai/phoenix) | 10k+ |
 | [RAGChecker](https://github.com/tonywu71/RAGChecker) | Fine-grained RAG evaluation |
 
 ## Tutorials
