@@ -32,11 +32,11 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 ## Frameworks
 | Name | Stars | Description |
 |------|-------|-------------|
-| [LangChain](https://github.com/langchain-ai/langchain) | 138k+ | Build context-aware LLM applications |
+| [LangChain](https://github.com/langchain-ai/langchain) | 139k+ | Build context-aware LLM applications |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | 50k+ | Data framework for LLM apps |
 | [Haystack](https://github.com/deepset-ai/haystack) | 25k+ | End-to-end NLP framework |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | 82k+ | Open-source RAG engine |
-| [Dify](https://github.com/langgenius/dify) | 143k+ | LLM app development platform |
+| [Dify](https://github.com/langgenius/dify) | 144k+ | LLM app development platform |
 | [R2R](https://github.com/SciPhi-AI/R2R) | 8k+ | RAG to production |
 | [Verba](https://github.com/weaviate/Verba) | 16k+ | RAG chatbot by Weaviate |
 | [FastRAG](https://github.com/IntelLabs/fastRAG) | 2k+ | Optimized RAG framework |
@@ -54,7 +54,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [Qdrant](https://github.com/qdrant/qdrant) | 32k+ | High-performance vector search |
 | [Pinecone](https://www.pinecone.io/) | Managed | Serverless vector database |
 | [pgvector](https://github.com/pgvector/pgvector) | 22k+ | Vector similarity for PostgreSQL |
-| [LanceDB](https://github.com/lancedb/lancedb) | 10k+ | Developer-friendly vector DB |
+| [LanceDB](https://github.com/lancedb/lancedb) | 11k+ | Developer-friendly vector DB |
 | [Redis](https://redis.io/) | Open-source | Vector search in Redis |
 | [Elasticsearch](https://www.elastic.co/elasticsearch) | Open-source | Vector search in ES |
 | [Vespa](https://github.com/vespa-engine/vespa) | 7k+ | Full-text and vector search |
@@ -108,8 +108,8 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [Cohere Rerank](https://cohere.com/rerank) | API-based re-ranking |
 | [BGE Reranker](https://github.com/FlagOpen/FlagEmbedding) | 12k+ |
 | [ColBERT](https://github.com/stanford-futuredata/ColBERT) | 4k+ |
-| [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) | 980 |
-| [RankLLM](https://github.com/castorini/rank_llm) | 600 |
+| [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) | 981 |
+| [RankLLM](https://github.com/castorini/rank_llm) | 602 |
 | [LLM Re-ranking](https://python.langchain.com/docs/integrations/retrievers/LLM-Reranker) | Use any LLM for re-ranking |
 
 ## Evaluation
