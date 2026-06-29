@@ -35,13 +35,13 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [LangChain](https://github.com/langchain-ai/langchain) | 140k+ | Build context-aware LLM applications |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | 50k+ | Data framework for LLM apps |
 | [Haystack](https://github.com/deepset-ai/haystack) | 26k+ | End-to-end NLP framework |
-| [RAGFlow](https://github.com/infiniflow/ragflow) | 83k+ | Open-source RAG engine |
-| [Dify](https://github.com/langgenius/dify) | 146k+ | LLM app development platform |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | 84k+ | Open-source RAG engine |
+| [Dify](https://github.com/langgenius/dify) | 147k+ | LLM app development platform |
 | [R2R](https://github.com/SciPhi-AI/R2R) | 8k+ | RAG to production |
 | [Verba](https://github.com/weaviate/Verba) | 16k+ | RAG chatbot by Weaviate |
 | [FastRAG](https://github.com/IntelLabs/fastRAG) | 2k+ | Optimized RAG framework |
 | [Canopy](https://github.com/pinecone-io/canopy) | 1k+ | RAG framework by Pinecone |
-| [Kotaemon](https://github.com/Cinnamon/kotaemon) | 25k+ | Open-source RAG UI |
+| [Kotaemon](https://github.com/Cinnamon/kotaemon) | 26k+ | Open-source RAG UI |
 | [DocsGPT](https://github.com/arc53/DocsGPT) | 18k+ | RAG for documentation |
 | [PrivateGPT](https://github.com/zylon-ai/private-gpt) | 57k+ | Private RAG solution |
 
@@ -108,15 +108,15 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [Cohere Rerank](https://cohere.com/rerank) | API-based re-ranking |
 | [BGE Reranker](https://github.com/FlagOpen/FlagEmbedding) | 12k+ |
 | [ColBERT](https://github.com/stanford-futuredata/ColBERT) | 4k+ |
-| [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) | 987 |
+| [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) | 986 |
 | [RankLLM](https://github.com/castorini/rank_llm) | 608 |
 | [LLM Re-ranking](https://python.langchain.com/docs/integrations/retrievers/LLM-Reranker) | Use any LLM for re-ranking |
 
 ## Evaluation
 | Tool | Description |
 |------|-------------|
-| [RAGAS](https://github.com/explodinggradients/ragas) | 14k+ |
-| [DeepEval](https://github.com/confident-ai/deepeval) | 16k+ |
+| [RAGAS](https://github.com/explodinggradients/ragas) | 15k+ |
+| [DeepEval](https://github.com/confident-ai/deepeval) | 17k+ |
 | [TruLens](https://github.com/truera/trulens) | 3k+ |
 | [LangSmith](https://smith.langchain.com/) | LangChain tracing & eval |
 | [Phoenix](https://github.com/Arize-ai/phoenix) | 10k+ |
