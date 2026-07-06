@@ -32,13 +32,13 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 ## Frameworks
 | Name | Stars | Description |
 |------|-------|-------------|
-| [LangChain](https://github.com/langchain-ai/langchain) | 140k+ | Build context-aware LLM applications |
-| [LlamaIndex](https://github.com/run-llama/llama_index) | 50k+ | Data framework for LLM apps |
+| [LangChain](https://github.com/langchain-ai/langchain) | 141k+ | Build context-aware LLM applications |
+| [LlamaIndex](https://github.com/run-llama/llama_index) | 51k+ | Data framework for LLM apps |
 | [Haystack](https://github.com/deepset-ai/haystack) | 26k+ | End-to-end NLP framework |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | 84k+ | Open-source RAG engine |
-| [Dify](https://github.com/langgenius/dify) | 147k+ | LLM app development platform |
+| [Dify](https://github.com/langgenius/dify) | 148k+ | LLM app development platform |
 | [R2R](https://github.com/SciPhi-AI/R2R) | 8k+ | RAG to production |
-| [Verba](https://github.com/weaviate/Verba) | 16k+ | RAG chatbot by Weaviate |
+| [Verba](https://github.com/weaviate/Verba) | 17k+ | RAG chatbot by Weaviate |
 | [FastRAG](https://github.com/IntelLabs/fastRAG) | 2k+ | Optimized RAG framework |
 | [Canopy](https://github.com/pinecone-io/canopy) | 1k+ | RAG framework by Pinecone |
 | [Kotaemon](https://github.com/Cinnamon/kotaemon) | 26k+ | Open-source RAG UI |
@@ -48,7 +48,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 ## Vector Databases
 | Name | Type | Description |
 |------|------|-------------|
-| [Weaviate](https://github.com/weaviate/weaviate) | 16k+ | Vector search engine |
+| [Weaviate](https://github.com/weaviate/weaviate) | 17k+ | Vector search engine |
 | [Milvus](https://github.com/milvus-io/milvus) | 45k+ | High-performance vector DB |
 | [Chroma](https://github.com/chroma-core/chroma) | 29k+ | AI-native embedding DB |
 | [Qdrant](https://github.com/qdrant/qdrant) | 33k+ | High-performance vector search |
@@ -108,8 +108,8 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [Cohere Rerank](https://cohere.com/rerank) | API-based re-ranking |
 | [BGE Reranker](https://github.com/FlagOpen/FlagEmbedding) | 12k+ |
 | [ColBERT](https://github.com/stanford-futuredata/ColBERT) | 4k+ |
-| [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) | 986 |
-| [RankLLM](https://github.com/castorini/rank_llm) | 608 |
+| [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) | 988 |
+| [RankLLM](https://github.com/castorini/rank_llm) | 609 |
 | [LLM Re-ranking](https://python.langchain.com/docs/integrations/retrievers/LLM-Reranker) | Use any LLM for re-ranking |
 
 ## Evaluation
