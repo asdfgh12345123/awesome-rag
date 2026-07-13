@@ -32,11 +32,11 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 ## Frameworks
 | Name | Stars | Description |
 |------|-------|-------------|
-| [LangChain](https://github.com/langchain-ai/langchain) | 141k+ | Build context-aware LLM applications |
+| [LangChain](https://github.com/langchain-ai/langchain) | 142k+ | Build context-aware LLM applications |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | 51k+ | Data framework for LLM apps |
 | [Haystack](https://github.com/deepset-ai/haystack) | 26k+ | End-to-end NLP framework |
-| [RAGFlow](https://github.com/infiniflow/ragflow) | 84k+ | Open-source RAG engine |
-| [Dify](https://github.com/langgenius/dify) | 148k+ | LLM app development platform |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | 85k+ | Open-source RAG engine |
+| [Dify](https://github.com/langgenius/dify) | 149k+ | LLM app development platform |
 | [R2R](https://github.com/SciPhi-AI/R2R) | 8k+ | RAG to production |
 | [Verba](https://github.com/weaviate/Verba) | 17k+ | RAG chatbot by Weaviate |
 | [FastRAG](https://github.com/IntelLabs/fastRAG) | 2k+ | Optimized RAG framework |
@@ -108,7 +108,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [Cohere Rerank](https://cohere.com/rerank) | API-based re-ranking |
 | [BGE Reranker](https://github.com/FlagOpen/FlagEmbedding) | 12k+ |
 | [ColBERT](https://github.com/stanford-futuredata/ColBERT) | 4k+ |
-| [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) | 988 |
+| [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) | 993 |
 | [RankLLM](https://github.com/castorini/rank_llm) | 609 |
 | [LLM Re-ranking](https://python.langchain.com/docs/integrations/retrievers/LLM-Reranker) | Use any LLM for re-ranking |
 
@@ -119,7 +119,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [DeepEval](https://github.com/confident-ai/deepeval) | 17k+ |
 | [TruLens](https://github.com/truera/trulens) | 3k+ |
 | [LangSmith](https://smith.langchain.com/) | LangChain tracing & eval |
-| [Phoenix](https://github.com/Arize-ai/phoenix) | 10k+ |
+| [Phoenix](https://github.com/Arize-ai/phoenix) | 11k+ |
 | [RAGChecker](https://github.com/tonywu71/RAGChecker) | Fine-grained RAG evaluation |
 
 ## Tutorials
