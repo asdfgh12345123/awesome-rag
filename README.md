@@ -35,8 +35,8 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [LangChain](https://github.com/langchain-ai/langchain) | 145k+ | Build context-aware LLM applications |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | 52k+ | Data framework for LLM apps |
 | [Haystack](https://github.com/deepset-ai/haystack) | 26k+ | End-to-end NLP framework |
-| [RAGFlow](https://github.com/infiniflow/ragflow) | 89k+ | Open-source RAG engine |
-| [Dify](https://github.com/langgenius/dify) | 153k+ | LLM app development platform |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | 90k+ | Open-source RAG engine |
+| [Dify](https://github.com/langgenius/dify) | 154k+ | LLM app development platform |
 | [R2R](https://github.com/SciPhi-AI/R2R) | 8k+ | RAG to production |
 | [Verba](https://github.com/weaviate/Verba) | 17k+ | RAG chatbot by Weaviate |
 | [FastRAG](https://github.com/IntelLabs/fastRAG) | 2k+ | Optimized RAG framework |
@@ -115,7 +115,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 ## Evaluation
 | Tool | Description |
 |------|-------------|
-| [RAGAS](https://github.com/explodinggradients/ragas) | 15k+ |
+| [RAGAS](https://github.com/explodinggradients/ragas) | 16k+ |
 | [DeepEval](https://github.com/confident-ai/deepeval) | 18k+ |
 | [TruLens](https://github.com/truera/trulens) | 4k+ |
 | [LangSmith](https://smith.langchain.com/) | LangChain tracing & eval |
