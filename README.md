@@ -32,11 +32,11 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 ## Frameworks
 | Name | Stars | Description |
 |------|-------|-------------|
-| [LangChain](https://github.com/langchain-ai/langchain) | 145k+ | Build context-aware LLM applications |
+| [LangChain](https://github.com/langchain-ai/langchain) | 146k+ | Build context-aware LLM applications |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | 52k+ | Data framework for LLM apps |
 | [Haystack](https://github.com/deepset-ai/haystack) | 26k+ | End-to-end NLP framework |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | 90k+ | Open-source RAG engine |
-| [Dify](https://github.com/langgenius/dify) | 154k+ | LLM app development platform |
+| [Dify](https://github.com/langgenius/dify) | 155k+ | LLM app development platform |
 | [R2R](https://github.com/SciPhi-AI/R2R) | 8k+ | RAG to production |
 | [Verba](https://github.com/weaviate/Verba) | 17k+ | RAG chatbot by Weaviate |
 | [FastRAG](https://github.com/IntelLabs/fastRAG) | 2k+ | Optimized RAG framework |
@@ -58,7 +58,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [Redis](https://redis.io/) | Open-source | Vector search in Redis |
 | [Elasticsearch](https://www.elastic.co/elasticsearch) | Open-source | Vector search in ES |
 | [Vespa](https://github.com/vespa-engine/vespa) | 7k+ | Full-text and vector search |
-| [Typesense](https://github.com/typesense/typesense) | 26k+ | Fast typo-tolerant search |
+| [Typesense](https://github.com/typesense/typesense) | 27k+ | Fast typo-tolerant search |
 | [Marqo](https://github.com/marqo-ai/marqo) | 5k+ | Tensor-based search |
 
 ## Embedding Models
@@ -109,7 +109,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [BGE Reranker](https://github.com/FlagOpen/FlagEmbedding) | 12k+ |
 | [ColBERT](https://github.com/stanford-futuredata/ColBERT) | 4k+ |
 | [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) | 1k+ |
-| [RankLLM](https://github.com/castorini/rank_llm) | 653 |
+| [RankLLM](https://github.com/castorini/rank_llm) | 655 |
 | [LLM Re-ranking](https://python.langchain.com/docs/integrations/retrievers/LLM-Reranker) | Use any LLM for re-ranking |
 
 ## Evaluation
