@@ -34,16 +34,16 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 |------|-------|-------------|
 | [LangChain](https://github.com/langchain-ai/langchain) | 146k+ | Build context-aware LLM applications |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | 52k+ | Data framework for LLM apps |
-| [Haystack](https://github.com/deepset-ai/haystack) | 26k+ | End-to-end NLP framework |
-| [RAGFlow](https://github.com/infiniflow/ragflow) | 90k+ | Open-source RAG engine |
-| [Dify](https://github.com/langgenius/dify) | 155k+ | LLM app development platform |
+| [Haystack](https://github.com/deepset-ai/haystack) | 27k+ | End-to-end NLP framework |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | 91k+ | Open-source RAG engine |
+| [Dify](https://github.com/langgenius/dify) | 156k+ | LLM app development platform |
 | [R2R](https://github.com/SciPhi-AI/R2R) | 8k+ | RAG to production |
 | [Verba](https://github.com/weaviate/Verba) | 17k+ | RAG chatbot by Weaviate |
 | [FastRAG](https://github.com/IntelLabs/fastRAG) | 2k+ | Optimized RAG framework |
 | [Canopy](https://github.com/pinecone-io/canopy) | 1k+ | RAG framework by Pinecone |
 | [Kotaemon](https://github.com/Cinnamon/kotaemon) | 26k+ | Open-source RAG UI |
 | [DocsGPT](https://github.com/arc53/DocsGPT) | 18k+ | RAG for documentation |
-| [PrivateGPT](https://github.com/zylon-ai/private-gpt) | 57k+ | Private RAG solution |
+| [PrivateGPT](https://github.com/zylon-ai/private-gpt) | 58k+ | Private RAG solution |
 
 ## Vector Databases
 | Name | Type | Description |
@@ -51,7 +51,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [Weaviate](https://github.com/weaviate/weaviate) | 17k+ | Vector search engine |
 | [Milvus](https://github.com/milvus-io/milvus) | 46k+ | High-performance vector DB |
 | [Chroma](https://github.com/chroma-core/chroma) | 29k+ | AI-native embedding DB |
-| [Qdrant](https://github.com/qdrant/qdrant) | 34k+ | High-performance vector search |
+| [Qdrant](https://github.com/qdrant/qdrant) | 35k+ | High-performance vector search |
 | [Pinecone](https://www.pinecone.io/) | Managed | Serverless vector database |
 | [pgvector](https://github.com/pgvector/pgvector) | 23k+ | Vector similarity for PostgreSQL |
 | [LanceDB](https://github.com/lancedb/lancedb) | 11k+ | Developer-friendly vector DB |
@@ -109,7 +109,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [BGE Reranker](https://github.com/FlagOpen/FlagEmbedding) | 12k+ |
 | [ColBERT](https://github.com/stanford-futuredata/ColBERT) | 4k+ |
 | [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) | 1k+ |
-| [RankLLM](https://github.com/castorini/rank_llm) | 655 |
+| [RankLLM](https://github.com/castorini/rank_llm) | 656 |
 | [LLM Re-ranking](https://python.langchain.com/docs/integrations/retrievers/LLM-Reranker) | Use any LLM for re-ranking |
 
 ## Evaluation
