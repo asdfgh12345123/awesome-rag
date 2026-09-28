@@ -54,7 +54,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [Qdrant](https://github.com/qdrant/qdrant) | 35k+ | High-performance vector search |
 | [Pinecone](https://www.pinecone.io/) | Managed | Serverless vector database |
 | [pgvector](https://github.com/pgvector/pgvector) | 23k+ | Vector similarity for PostgreSQL |
-| [LanceDB](https://github.com/lancedb/lancedb) | 11k+ | Developer-friendly vector DB |
+| [LanceDB](https://github.com/lancedb/lancedb) | 12k+ | Developer-friendly vector DB |
 | [Redis](https://redis.io/) | Open-source | Vector search in Redis |
 | [Elasticsearch](https://www.elastic.co/elasticsearch) | Open-source | Vector search in ES |
 | [Vespa](https://github.com/vespa-engine/vespa) | 7k+ | Full-text and vector search |
@@ -109,7 +109,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [BGE Reranker](https://github.com/FlagOpen/FlagEmbedding) | 12k+ |
 | [ColBERT](https://github.com/stanford-futuredata/ColBERT) | 4k+ |
 | [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) | 1k+ |
-| [RankLLM](https://github.com/castorini/rank_llm) | 656 |
+| [RankLLM](https://github.com/castorini/rank_llm) | 657 |
 | [LLM Re-ranking](https://python.langchain.com/docs/integrations/retrievers/LLM-Reranker) | Use any LLM for re-ranking |
 
 ## Evaluation
