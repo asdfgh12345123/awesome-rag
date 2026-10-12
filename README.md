@@ -32,7 +32,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 ## Frameworks
 | Name | Stars | Description |
 |------|-------|-------------|
-| [LangChain](https://github.com/langchain-ai/langchain) | 147k+ | Build context-aware LLM applications |
+| [LangChain](https://github.com/langchain-ai/langchain) | 148k+ | Build context-aware LLM applications |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | 52k+ | Data framework for LLM apps |
 | [Haystack](https://github.com/deepset-ai/haystack) | 27k+ | End-to-end NLP framework |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | 92k+ | Open-source RAG engine |
@@ -109,7 +109,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [BGE Reranker](https://github.com/FlagOpen/FlagEmbedding) | 12k+ |
 | [ColBERT](https://github.com/stanford-futuredata/ColBERT) | 4k+ |
 | [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) | 1k+ |
-| [RankLLM](https://github.com/castorini/rank_llm) | 659 |
+| [RankLLM](https://github.com/castorini/rank_llm) | 660 |
 | [LLM Re-ranking](https://python.langchain.com/docs/integrations/retrievers/LLM-Reranker) | Use any LLM for re-ranking |
 
 ## Evaluation
