@@ -33,10 +33,10 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | Name | Stars | Description |
 |------|-------|-------------|
 | [LangChain](https://github.com/langchain-ai/langchain) | 148k+ | Build context-aware LLM applications |
-| [LlamaIndex](https://github.com/run-llama/llama_index) | 52k+ | Data framework for LLM apps |
+| [LlamaIndex](https://github.com/run-llama/llama_index) | 53k+ | Data framework for LLM apps |
 | [Haystack](https://github.com/deepset-ai/haystack) | 27k+ | End-to-end NLP framework |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | 92k+ | Open-source RAG engine |
-| [Dify](https://github.com/langgenius/dify) | 158k+ | LLM app development platform |
+| [Dify](https://github.com/langgenius/dify) | 159k+ | LLM app development platform |
 | [R2R](https://github.com/SciPhi-AI/R2R) | 8k+ | RAG to production |
 | [Verba](https://github.com/weaviate/Verba) | 17k+ | RAG chatbot by Weaviate |
 | [FastRAG](https://github.com/IntelLabs/fastRAG) | 2k+ | Optimized RAG framework |
@@ -50,7 +50,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 |------|------|-------------|
 | [Weaviate](https://github.com/weaviate/weaviate) | 17k+ | Vector search engine |
 | [Milvus](https://github.com/milvus-io/milvus) | 46k+ | High-performance vector DB |
-| [Chroma](https://github.com/chroma-core/chroma) | 29k+ | AI-native embedding DB |
+| [Chroma](https://github.com/chroma-core/chroma) | 30k+ | AI-native embedding DB |
 | [Qdrant](https://github.com/qdrant/qdrant) | 35k+ | High-performance vector search |
 | [Pinecone](https://www.pinecone.io/) | Managed | Serverless vector database |
 | [pgvector](https://github.com/pgvector/pgvector) | 23k+ | Vector similarity for PostgreSQL |
