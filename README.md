@@ -35,8 +35,8 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [LangChain](https://github.com/langchain-ai/langchain) | 148k+ | Build context-aware LLM applications |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | 53k+ | Data framework for LLM apps |
 | [Haystack](https://github.com/deepset-ai/haystack) | 27k+ | End-to-end NLP framework |
-| [RAGFlow](https://github.com/infiniflow/ragflow) | 92k+ | Open-source RAG engine |
-| [Dify](https://github.com/langgenius/dify) | 159k+ | LLM app development platform |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | 93k+ | Open-source RAG engine |
+| [Dify](https://github.com/langgenius/dify) | 160k+ | LLM app development platform |
 | [R2R](https://github.com/SciPhi-AI/R2R) | 8k+ | RAG to production |
 | [Verba](https://github.com/weaviate/Verba) | 17k+ | RAG chatbot by Weaviate |
 | [FastRAG](https://github.com/IntelLabs/fastRAG) | 2k+ | Optimized RAG framework |
@@ -109,7 +109,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | [BGE Reranker](https://github.com/FlagOpen/FlagEmbedding) | 12k+ |
 | [ColBERT](https://github.com/stanford-futuredata/ColBERT) | 4k+ |
 | [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank) | 1k+ |
-| [RankLLM](https://github.com/castorini/rank_llm) | 660 |
+| [RankLLM](https://github.com/castorini/rank_llm) | 661 |
 | [LLM Re-ranking](https://python.langchain.com/docs/integrations/retrievers/LLM-Reranker) | Use any LLM for re-ranking |
 
 ## Evaluation
