@@ -32,7 +32,7 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 ## Frameworks
 | Name | Stars | Description |
 |------|-------|-------------|
-| [LangChain](https://github.com/langchain-ai/langchain) | 148k+ | Build context-aware LLM applications |
+| [LangChain](https://github.com/langchain-ai/langchain) | 149k+ | Build context-aware LLM applications |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | 53k+ | Data framework for LLM apps |
 | [Haystack](https://github.com/deepset-ai/haystack) | 27k+ | End-to-end NLP framework |
 | [RAGFlow](https://github.com/infiniflow/ragflow) | 93k+ | Open-source RAG engine |
@@ -49,11 +49,11 @@ Awesome RAG is a focused list for exploring how retrieval-augmented generation i
 | Name | Type | Description |
 |------|------|-------------|
 | [Weaviate](https://github.com/weaviate/weaviate) | 17k+ | Vector search engine |
-| [Milvus](https://github.com/milvus-io/milvus) | 46k+ | High-performance vector DB |
+| [Milvus](https://github.com/milvus-io/milvus) | 47k+ | High-performance vector DB |
 | [Chroma](https://github.com/chroma-core/chroma) | 30k+ | AI-native embedding DB |
 | [Qdrant](https://github.com/qdrant/qdrant) | 35k+ | High-performance vector search |
 | [Pinecone](https://www.pinecone.io/) | Managed | Serverless vector database |
-| [pgvector](https://github.com/pgvector/pgvector) | 23k+ | Vector similarity for PostgreSQL |
+| [pgvector](https://github.com/pgvector/pgvector) | 24k+ | Vector similarity for PostgreSQL |
 | [LanceDB](https://github.com/lancedb/lancedb) | 12k+ | Developer-friendly vector DB |
 | [Redis](https://redis.io/) | Open-source | Vector search in Redis |
 | [Elasticsearch](https://www.elastic.co/elasticsearch) | Open-source | Vector search in ES |
